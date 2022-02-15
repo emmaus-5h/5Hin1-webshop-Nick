@@ -1,10 +1,9 @@
 /* all pages */
-
+body {background-color: #ccfbff;} 
 footer {
   margin: 20px;
   font-size: 12px;
 } 
-
 .toast {
     /* dirty: below 'card' button  */
     position: fixed; 
